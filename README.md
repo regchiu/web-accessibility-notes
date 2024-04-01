@@ -59,7 +59,7 @@ https://html.spec.whatwg.org/multipage/interaction.html#sequential-focus-navigat
 
 ### Which Elements Should Have Focus?
 
-We should typically only add `tabindex` attributes to interactive elements, and not to our site content.With this in mind, consider a web page that looks like the following:
+We should typically only add `tabindex` attributes to interactive elements, and not to our site content. With this in mind, consider a web page that looks like the following:
 
 ![Which Elements Should Have Focus?](src/focus/which-elements-should-have-focus.png)
 
